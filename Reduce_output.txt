@@ -1,0 +1,98 @@
+0	Public_Services(3->2) => (0->1),support = 10,confidence=27.77777777777778 <----> Good
+2	Public_Services(3->10) => (0->1),support = 4,confidence=66.66666666666666 <----> Good
+4	Public_Services(3->6) => (0->1),support = 10,confidence=29.333333333333332 <----> Good
+5	Public_Services(3->5) => (0->1),support = 10,confidence=26.666666666666664 <----> Good
+6	Public_Services(3->4) => (0->1),support = 7,confidence=25.925925925925927 <----> Good
+7	Public_Services(3->9) => (0->1),support = 10,confidence=29.333333333333332 <----> Good
+8	Public_Services(3->8) => (0->1),support = 10,confidence=33.33333333333333 <----> Good
+11	Public_Services(2->10) => (0->1),support = 4,confidence=58.333333333333336 <----> Good
+13	Public_Services(2->6) => (0->1),support = 11,confidence=25.666666666666668 <----> Good
+14	Public_Services(2->5) => (0->1),support = 10,confidence=23.333333333333336 <----> Good
+15	Public_Services(2->4) => (0->1),support = 7,confidence=22.68518518518519 <----> Good
+16	Public_Services(2->9) => (0->1),support = 11,confidence=25.666666666666668 <----> Good
+17	Public_Services(2->8) => (0->1),support = 11,confidence=29.166666666666668 <----> Good
+36	Public_Services(7->3) => (0->1),support = 5,confidence=26.31578947368421 <----> Good
+37	Public_Services(7->2) => (0->1),support = 10,confidence=32.89473684210527 <----> Good
+39	Public_Services(7->10) => (0->1),support = 4,confidence=78.94736842105263 <----> Good
+40	Public_Services(7->6) => (0->1),support = 11,confidence=34.73684210526316 <----> Good
+41	Public_Services(7->5) => (0->1),support = 10,confidence=31.578947368421055 <----> Good
+42	Public_Services(7->4) => (0->1),support = 7,confidence=30.701754385964914 <----> Good
+43	Public_Services(7->9) => (0->1),support = 11,confidence=34.73684210526316 <----> Good
+44	Public_Services(7->8) => (0->1),support = 11,confidence=39.473684210526315 <----> Good
+46	Public_Services(6->2) => (0->1),support = 10,confidence=23.33333333333334 <----> Good
+48	Public_Services(6->10) => (0->1),support = 4,confidence=56.00000000000001 <----> Good
+50	Public_Services(6->5) => (0->1),support = 10,confidence=22.400000000000002 <----> Good
+51	Public_Services(6->4) => (0->1),support = 7,confidence=21.777777777777782 <----> Good
+52	Public_Services(6->9) => (0->1),support = 11,confidence=24.64 <----> Good
+53	Public_Services(6->8) => (0->1),support = 11,confidence=28.000000000000004 <----> Good
+55	Public_Services(5->2) => (0->1),support = 10,confidence=25.000000000000004 <----> Good
+57	Public_Services(5->10) => (0->1),support = 4,confidence=60.0 <----> Good
+59	Public_Services(5->6) => (0->1),support = 11,confidence=26.4 <----> Good
+60	Public_Services(5->4) => (0->1),support = 7,confidence=23.333333333333336 <----> Good
+61	Public_Services(5->9) => (0->1),support = 11,confidence=26.4 <----> Good
+62	Public_Services(5->8) => (0->1),support = 11,confidence=30.0 <----> Good
+63	Public_Services(4->3) => (0->1),support = 5,confidence=20.37037037037037 <----> Good
+64	Public_Services(4->2) => (0->1),support = 10,confidence=25.46296296296297 <----> Good
+66	Public_Services(4->10) => (0->1),support = 4,confidence=61.111111111111114 <----> Good
+68	Public_Services(4->6) => (0->1),support = 11,confidence=26.888888888888893 <----> Good
+69	Public_Services(4->5) => (0->1),support = 10,confidence=24.444444444444446 <----> Good
+70	Public_Services(4->9) => (0->1),support = 11,confidence=26.888888888888893 <----> Good
+71	Public_Services(4->8) => (0->1),support = 11,confidence=30.555555555555557 <----> Good
+73	Public_Services(9->2) => (0->1),support = 10,confidence=23.33333333333334 <----> Good
+75	Public_Services(9->10) => (0->1),support = 4,confidence=56.00000000000001 <----> Good
+77	Public_Services(9->6) => (0->1),support = 11,confidence=24.64 <----> Good
+78	Public_Services(9->5) => (0->1),support = 10,confidence=22.400000000000002 <----> Good
+79	Public_Services(9->4) => (0->1),support = 7,confidence=21.777777777777782 <----> Good
+80	Public_Services(9->8) => (0->1),support = 11,confidence=28.000000000000004 <----> Good
+82	Public_Services(8->2) => (0->1),support = 10,confidence=20.833333333333336 <----> Good
+84	Public_Services(8->10) => (0->1),support = 4,confidence=50.0 <----> Good
+86	Public_Services(8->6) => (0->1),support = 11,confidence=22.0 <----> Good
+89	Public_Services(8->9) => (0->1),support = 11,confidence=22.0 <----> Good
+95	 Human_Flight Public_Services (5->5)(3->2) => (0->1),support = 3,confidence=75.0 <----> Good
+96	 Human_Flight Public_Services (4->4)(3->2) => (0->1),support = 3,confidence=37.5 <----> Good
+131	 Human_Flight Public_Services (5->5)(3->6) => (0->1),support = 3,confidence=53.57142857142857 <----> Good
+140	 Human_Flight Public_Services (5->5)(3->5) => (0->1),support = 3,confidence=32.14285714285714 <----> Good
+141	 Human_Flight Public_Services (4->4)(3->5) => (0->1),support = 3,confidence=32.14285714285714 <----> Good
+149	 Human_Flight Public_Services (5->5)(3->4) => (0->1),support = 3,confidence=25.0 <----> Good
+167	 Human_Flight Public_Services (5->5)(3->8) => (0->1),support = 3,confidence=75.0 <----> Good
+171	 Human_Flight Public_Services (3->3)(2->3) => (0->1),support = 3,confidence=30.0 <----> Good
+172	 Human_Flight Public_Services (2->2)(2->3) => (0->1),support = 8,confidence=28.57142857142857 <----> Good
+207	 Human_Flight Public_Services (3->3)(2->6) => (0->1),support = 3,confidence=30.0 <----> Good
+428	 Human_Flight Public_Services (5->5)(7->2) => (0->1),support = 3,confidence=75.0 <----> Good
+444	 Human_Flight Public_Services (7->7)(7->10) => (0->1),support = 4,confidence=66.66666666666666 <----> Good
+454	 Human_Flight Public_Services (6->6)(7->6) => (0->1),support = 6,confidence=42.857142857142854 <----> Good
+455	 Human_Flight Public_Services (5->5)(7->6) => (0->1),support = 3,confidence=53.57142857142857 <----> Good
+462	 Human_Flight Public_Services (7->7)(7->5) => (0->1),support = 4,confidence=26.666666666666664 <----> Good
+464	 Human_Flight Public_Services (5->5)(7->5) => (0->1),support = 3,confidence=32.14285714285714 <----> Good
+472	 Human_Flight Public_Services (6->6)(7->4) => (0->1),support = 6,confidence=57.14285714285714 <----> Good
+473	 Human_Flight Public_Services (5->5)(7->4) => (0->1),support = 3,confidence=25.0 <----> Good
+480	 Human_Flight Public_Services (7->7)(7->9) => (0->1),support = 4,confidence=30.303030303030297 <----> Good
+481	 Human_Flight Public_Services (6->6)(7->9) => (0->1),support = 6,confidence=28.57142857142857 <----> Good
+489	 Human_Flight Public_Services (7->7)(7->8) => (0->1),support = 4,confidence=31.111111111111107 <----> Good
+491	 Human_Flight Public_Services (5->5)(7->8) => (0->1),support = 3,confidence=75.0 <----> Good
+525	 Human_Flight Public_Services (7->7)(6->10) => (0->1),support = 4,confidence=80.0 <----> Good
+534	 Human_Flight Public_Services (7->7)(6->7) => (0->1),support = 4,confidence=26.666666666666664 <----> Good
+543	 Human_Flight Public_Services (7->7)(6->5) => (0->1),support = 4,confidence=32.0 <----> Good
+553	 Human_Flight Public_Services (6->6)(6->4) => (0->1),support = 3,confidence=33.33333333333333 <----> Good
+561	 Human_Flight Public_Services (7->7)(6->9) => (0->1),support = 4,confidence=36.36363636363636 <----> Good
+570	 Human_Flight Public_Services (7->7)(6->8) => (0->1),support = 4,confidence=37.333333333333336 <----> Good
+590	 Human_Flight Public_Services (5->5)(5->2) => (0->1),support = 4,confidence=57.14285714285714 <----> Good
+591	 Human_Flight Public_Services (4->4)(5->2) => (0->1),support = 4,confidence=28.57142857142857 <----> Good
+606	 Human_Flight Public_Services (7->7)(5->10) => (0->1),support = 3,confidence=60.0 <----> Good
+626	 Human_Flight Public_Services (5->5)(5->6) => (0->1),support = 4,confidence=40.816326530612244 <----> Good
+642	 Human_Flight Public_Services (7->7)(5->9) => (0->1),support = 3,confidence=27.272727272727273 <----> Good
+651	 Human_Flight Public_Services (7->7)(5->8) => (0->1),support = 3,confidence=28.0 <----> Good
+653	 Human_Flight Public_Services (5->5)(5->8) => (0->1),support = 4,confidence=57.14285714285714 <----> Good
+657	 Human_Flight Public_Services (3->3)(4->3) => (0->1),support = 3,confidence=37.5 <----> Good
+666	 Human_Flight Public_Services (3->3)(4->2) => (0->1),support = 3,confidence=30.0 <----> Good
+672	 Human_Flight Public_Services (4->4)(4->2) => (0->1),support = 4,confidence=40.0 <----> Good
+702	 Human_Flight Public_Services (3->3)(4->6) => (0->1),support = 3,confidence=37.5 <----> Good
+717	 Human_Flight Public_Services (4->4)(4->5) => (0->1),support = 4,confidence=34.285714285714285 <----> Good
+768	 Human_Flight Public_Services (7->7)(9->10) => (0->1),support = 6,confidence=54.54545454545454 <----> Good
+787	 Human_Flight Public_Services (6->6)(9->6) => (0->1),support = 4,confidence=33.33333333333333 <----> Good
+795	 Human_Flight Public_Services (7->7)(9->5) => (0->1),support = 6,confidence=21.818181818181817 <----> Good
+805	 Human_Flight Public_Services (6->6)(9->4) => (0->1),support = 4,confidence=44.444444444444436 <----> Good
+813	 Human_Flight Public_Services (7->7)(9->8) => (0->1),support = 6,confidence=25.454545454545453 <----> Good
+849	 Human_Flight Public_Services (7->7)(8->10) => (0->1),support = 8,confidence=53.333333333333336 <----> Good
+876	 Human_Flight Public_Services (7->7)(8->5) => (0->1),support = 8,confidence=21.333333333333336 <----> Good
+894	 Human_Flight Public_Services (7->7)(8->9) => (0->1),support = 8,confidence=24.242424242424242 <----> Good

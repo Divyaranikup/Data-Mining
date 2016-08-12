@@ -1,0 +1,901 @@
+Action Rules: 
+Public_Services(3->2) => (0->1),support = 10,confidence=27.77777777777778
+Public_Services(3->1) => (0->1),support = 0,confidence=0.0
+Public_Services(3->10) => (0->1),support = 4,confidence=66.66666666666666
+Public_Services(3->7) => (0->1),support = 4,confidence=14.035087719298243
+Public_Services(3->6) => (0->1),support = 10,confidence=29.333333333333332
+Public_Services(3->5) => (0->1),support = 10,confidence=26.666666666666664
+Public_Services(3->4) => (0->1),support = 7,confidence=25.925925925925927
+Public_Services(3->9) => (0->1),support = 10,confidence=29.333333333333332
+Public_Services(3->8) => (0->1),support = 10,confidence=33.33333333333333
+Public_Services(2->3) => (0->1),support = 5,confidence=19.444444444444443
+Public_Services(2->1) => (0->1),support = 0,confidence=0.0
+Public_Services(2->10) => (0->1),support = 4,confidence=58.333333333333336
+Public_Services(2->7) => (0->1),support = 4,confidence=12.280701754385964
+Public_Services(2->6) => (0->1),support = 11,confidence=25.666666666666668
+Public_Services(2->5) => (0->1),support = 10,confidence=23.333333333333336
+Public_Services(2->4) => (0->1),support = 7,confidence=22.68518518518519
+Public_Services(2->9) => (0->1),support = 11,confidence=25.666666666666668
+Public_Services(2->8) => (0->1),support = 11,confidence=29.166666666666668
+Public_Services(1->3) => (0->1),support = 1,confidence=33.33333333333333
+Public_Services(1->2) => (0->1),support = 1,confidence=41.66666666666667
+Public_Services(1->10) => (0->1),support = 1,confidence=100.0
+Public_Services(1->7) => (0->1),support = 1,confidence=21.052631578947366
+Public_Services(1->6) => (0->1),support = 1,confidence=44.0
+Public_Services(1->5) => (0->1),support = 1,confidence=40.0
+Public_Services(1->4) => (0->1),support = 1,confidence=38.88888888888889
+Public_Services(1->9) => (0->1),support = 1,confidence=44.0
+Public_Services(1->8) => (0->1),support = 1,confidence=50.0
+Public_Services(10->3) => (0->1),support = 0,confidence=0.0
+Public_Services(10->2) => (0->1),support = 0,confidence=0.0
+Public_Services(10->1) => (0->1),support = 0,confidence=0.0
+Public_Services(10->7) => (0->1),support = 0,confidence=0.0
+Public_Services(10->6) => (0->1),support = 0,confidence=0.0
+Public_Services(10->5) => (0->1),support = 0,confidence=0.0
+Public_Services(10->4) => (0->1),support = 0,confidence=0.0
+Public_Services(10->9) => (0->1),support = 0,confidence=0.0
+Public_Services(10->8) => (0->1),support = 0,confidence=0.0
+Public_Services(7->3) => (0->1),support = 5,confidence=26.31578947368421
+Public_Services(7->2) => (0->1),support = 10,confidence=32.89473684210527
+Public_Services(7->1) => (0->1),support = 0,confidence=0.0
+Public_Services(7->10) => (0->1),support = 4,confidence=78.94736842105263
+Public_Services(7->6) => (0->1),support = 11,confidence=34.73684210526316
+Public_Services(7->5) => (0->1),support = 10,confidence=31.578947368421055
+Public_Services(7->4) => (0->1),support = 7,confidence=30.701754385964914
+Public_Services(7->9) => (0->1),support = 11,confidence=34.73684210526316
+Public_Services(7->8) => (0->1),support = 11,confidence=39.473684210526315
+Public_Services(6->3) => (0->1),support = 5,confidence=18.666666666666664
+Public_Services(6->2) => (0->1),support = 10,confidence=23.33333333333334
+Public_Services(6->1) => (0->1),support = 0,confidence=0.0
+Public_Services(6->10) => (0->1),support = 4,confidence=56.00000000000001
+Public_Services(6->7) => (0->1),support = 4,confidence=11.789473684210526
+Public_Services(6->5) => (0->1),support = 10,confidence=22.400000000000002
+Public_Services(6->4) => (0->1),support = 7,confidence=21.777777777777782
+Public_Services(6->9) => (0->1),support = 11,confidence=24.64
+Public_Services(6->8) => (0->1),support = 11,confidence=28.000000000000004
+Public_Services(5->3) => (0->1),support = 5,confidence=19.999999999999996
+Public_Services(5->2) => (0->1),support = 10,confidence=25.000000000000004
+Public_Services(5->1) => (0->1),support = 0,confidence=0.0
+Public_Services(5->10) => (0->1),support = 4,confidence=60.0
+Public_Services(5->7) => (0->1),support = 4,confidence=12.63157894736842
+Public_Services(5->6) => (0->1),support = 11,confidence=26.4
+Public_Services(5->4) => (0->1),support = 7,confidence=23.333333333333336
+Public_Services(5->9) => (0->1),support = 11,confidence=26.4
+Public_Services(5->8) => (0->1),support = 11,confidence=30.0
+Public_Services(4->3) => (0->1),support = 5,confidence=20.37037037037037
+Public_Services(4->2) => (0->1),support = 10,confidence=25.46296296296297
+Public_Services(4->1) => (0->1),support = 0,confidence=0.0
+Public_Services(4->10) => (0->1),support = 4,confidence=61.111111111111114
+Public_Services(4->7) => (0->1),support = 4,confidence=12.865497076023392
+Public_Services(4->6) => (0->1),support = 11,confidence=26.888888888888893
+Public_Services(4->5) => (0->1),support = 10,confidence=24.444444444444446
+Public_Services(4->9) => (0->1),support = 11,confidence=26.888888888888893
+Public_Services(4->8) => (0->1),support = 11,confidence=30.555555555555557
+Public_Services(9->3) => (0->1),support = 5,confidence=18.666666666666664
+Public_Services(9->2) => (0->1),support = 10,confidence=23.33333333333334
+Public_Services(9->1) => (0->1),support = 0,confidence=0.0
+Public_Services(9->10) => (0->1),support = 4,confidence=56.00000000000001
+Public_Services(9->7) => (0->1),support = 4,confidence=11.789473684210526
+Public_Services(9->6) => (0->1),support = 11,confidence=24.64
+Public_Services(9->5) => (0->1),support = 10,confidence=22.400000000000002
+Public_Services(9->4) => (0->1),support = 7,confidence=21.777777777777782
+Public_Services(9->8) => (0->1),support = 11,confidence=28.000000000000004
+Public_Services(8->3) => (0->1),support = 5,confidence=16.666666666666664
+Public_Services(8->2) => (0->1),support = 10,confidence=20.833333333333336
+Public_Services(8->1) => (0->1),support = 0,confidence=0.0
+Public_Services(8->10) => (0->1),support = 4,confidence=50.0
+Public_Services(8->7) => (0->1),support = 4,confidence=10.526315789473683
+Public_Services(8->6) => (0->1),support = 11,confidence=22.0
+Public_Services(8->5) => (0->1),support = 10,confidence=20.0
+Public_Services(8->4) => (0->1),support = 7,confidence=19.444444444444446
+Public_Services(8->9) => (0->1),support = 11,confidence=22.0
+ Human_Flight Public_Services (3->3)(3->2) => (0->1),support = 2,confidence = 20.0
+ Human_Flight Public_Services (2->2)(3->2) => (0->1),support = 1,confidence = 21.428571428571427
+ Human_Flight Public_Services (1->1)(3->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(3->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(3->2) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (5->5)(3->2) => (0->1),support = 3,confidence = 75.0
+ Human_Flight Public_Services (4->4)(3->2) => (0->1),support = 3,confidence = 37.5
+ Human_Flight Public_Services (9->9)(3->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(3->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(3->1) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (2->2)(3->1) => (0->1),support = 1,confidence = 0.0
+ Human_Flight Public_Services (1->1)(3->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(3->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(3->1) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (5->5)(3->1) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (4->4)(3->1) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (9->9)(3->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(3->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(3->10) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (2->2)(3->10) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (1->1)(3->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(3->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(3->10) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (5->5)(3->10) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (4->4)(3->10) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (9->9)(3->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(3->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(3->7) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (2->2)(3->7) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (1->1)(3->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(3->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(3->7) => (0->1),support = 1,confidence = 14.285714285714285
+ Human_Flight Public_Services (5->5)(3->7) => (0->1),support = 3,confidence = 18.75
+ Human_Flight Public_Services (4->4)(3->7) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (9->9)(3->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(3->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(3->6) => (0->1),support = 2,confidence = 25.0
+ Human_Flight Public_Services (2->2)(3->6) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (1->1)(3->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(3->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(3->6) => (0->1),support = 1,confidence = 50.0
+ Human_Flight Public_Services (5->5)(3->6) => (0->1),support = 3,confidence = 53.57142857142857
+ Human_Flight Public_Services (4->4)(3->6) => (0->1),support = 3,confidence = 0.0
+ Human_Flight Public_Services (9->9)(3->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(3->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(3->5) => (0->1),support = 2,confidence = 0.0
+ Human_Flight Public_Services (2->2)(3->5) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (1->1)(3->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(3->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(3->5) => (0->1),support = 1,confidence = 0.0
+ Human_Flight Public_Services (5->5)(3->5) => (0->1),support = 3,confidence = 32.14285714285714
+ Human_Flight Public_Services (4->4)(3->5) => (0->1),support = 3,confidence = 32.14285714285714
+ Human_Flight Public_Services (9->9)(3->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(3->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(3->4) => (0->1),support = 2,confidence = 12.5
+ Human_Flight Public_Services (2->2)(3->4) => (0->1),support = 1,confidence = 0.0
+ Human_Flight Public_Services (1->1)(3->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(3->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(3->4) => (0->1),support = 1,confidence = 66.66666666666666
+ Human_Flight Public_Services (5->5)(3->4) => (0->1),support = 3,confidence = 25.0
+ Human_Flight Public_Services (4->4)(3->4) => (0->1),support = 3,confidence = 15.0
+ Human_Flight Public_Services (9->9)(3->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(3->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(3->9) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (2->2)(3->9) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (1->1)(3->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(3->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(3->9) => (0->1),support = 1,confidence = 33.33333333333333
+ Human_Flight Public_Services (5->5)(3->9) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (4->4)(3->9) => (0->1),support = 3,confidence = 0.0
+ Human_Flight Public_Services (9->9)(3->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(3->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(3->8) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (2->2)(3->8) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (1->1)(3->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(3->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(3->8) => (0->1),support = 1,confidence = 0.0
+ Human_Flight Public_Services (5->5)(3->8) => (0->1),support = 3,confidence = 75.0
+ Human_Flight Public_Services (4->4)(3->8) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (9->9)(3->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(3->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(2->3) => (0->1),support = 3,confidence = 30.0
+ Human_Flight Public_Services (2->2)(2->3) => (0->1),support = 8,confidence = 28.57142857142857
+ Human_Flight Public_Services (1->1)(2->3) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (7->7)(2->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(2->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(2->3) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (4->4)(2->3) => (0->1),support = 1,confidence = 12.5
+ Human_Flight Public_Services (9->9)(2->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(2->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(2->1) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (2->2)(2->1) => (0->1),support = 8,confidence = 0.0
+ Human_Flight Public_Services (1->1)(2->1) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (7->7)(2->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(2->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(2->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(2->1) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (9->9)(2->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(2->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(2->10) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (2->2)(2->10) => (0->1),support = 8,confidence = NaN
+ Human_Flight Public_Services (1->1)(2->10) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (7->7)(2->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(2->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(2->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(2->10) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (9->9)(2->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(2->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(2->7) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (2->2)(2->7) => (0->1),support = 8,confidence = NaN
+ Human_Flight Public_Services (1->1)(2->7) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (7->7)(2->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(2->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(2->7) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (4->4)(2->7) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (9->9)(2->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(2->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(2->6) => (0->1),support = 3,confidence = 30.0
+ Human_Flight Public_Services (2->2)(2->6) => (0->1),support = 8,confidence = NaN
+ Human_Flight Public_Services (1->1)(2->6) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (7->7)(2->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(2->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(2->6) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (4->4)(2->6) => (0->1),support = 1,confidence = 0.0
+ Human_Flight Public_Services (9->9)(2->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(2->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(2->5) => (0->1),support = 3,confidence = 0.0
+ Human_Flight Public_Services (2->2)(2->5) => (0->1),support = 8,confidence = NaN
+ Human_Flight Public_Services (1->1)(2->5) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (7->7)(2->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(2->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(2->5) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (4->4)(2->5) => (0->1),support = 1,confidence = 21.428571428571427
+ Human_Flight Public_Services (9->9)(2->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(2->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(2->4) => (0->1),support = 3,confidence = 15.0
+ Human_Flight Public_Services (2->2)(2->4) => (0->1),support = 8,confidence = 0.0
+ Human_Flight Public_Services (1->1)(2->4) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (7->7)(2->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(2->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(2->4) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (4->4)(2->4) => (0->1),support = 1,confidence = 10.0
+ Human_Flight Public_Services (9->9)(2->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(2->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(2->9) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (2->2)(2->9) => (0->1),support = 8,confidence = NaN
+ Human_Flight Public_Services (1->1)(2->9) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (7->7)(2->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(2->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(2->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(2->9) => (0->1),support = 1,confidence = 0.0
+ Human_Flight Public_Services (9->9)(2->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(2->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(2->8) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (2->2)(2->8) => (0->1),support = 8,confidence = NaN
+ Human_Flight Public_Services (1->1)(2->8) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (7->7)(2->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(2->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(2->8) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (4->4)(2->8) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (9->9)(2->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(2->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(1->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(1->3) => (0->1),support = 1,confidence = 50.0
+ Human_Flight Public_Services (1->1)(1->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(1->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(1->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(1->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(1->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(1->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(1->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(1->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(1->2) => (0->1),support = 1,confidence = 42.857142857142854
+ Human_Flight Public_Services (1->1)(1->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(1->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(1->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(1->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(1->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(1->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(1->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(1->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(1->10) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (1->1)(1->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(1->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(1->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(1->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(1->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(1->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(1->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(1->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(1->7) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (1->1)(1->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(1->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(1->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(1->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(1->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(1->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(1->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(1->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(1->6) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (1->1)(1->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(1->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(1->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(1->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(1->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(1->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(1->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(1->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(1->5) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (1->1)(1->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(1->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(1->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(1->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(1->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(1->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(1->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(1->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(1->4) => (0->1),support = 1,confidence = 0.0
+ Human_Flight Public_Services (1->1)(1->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(1->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(1->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(1->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(1->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(1->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(1->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(1->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(1->9) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (1->1)(1->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(1->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(1->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(1->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(1->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(1->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(1->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(1->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(1->8) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (1->1)(1->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(1->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(1->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(1->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(1->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(1->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(1->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(10->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(10->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(10->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(10->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(10->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(10->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(10->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(10->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(10->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(10->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(10->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(10->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(10->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(10->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(10->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(10->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(10->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(10->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(10->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(10->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(10->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(10->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(10->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(10->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(10->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(10->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(10->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(10->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(10->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(10->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(10->7) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (6->6)(10->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(10->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(10->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(10->7) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (8->8)(10->7) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (3->3)(10->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(10->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(10->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(10->6) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (6->6)(10->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(10->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(10->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(10->6) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (8->8)(10->6) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (3->3)(10->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(10->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(10->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(10->5) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (6->6)(10->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(10->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(10->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(10->5) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (8->8)(10->5) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (3->3)(10->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(10->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(10->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(10->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(10->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(10->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(10->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(10->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(10->4) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (3->3)(10->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(10->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(10->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(10->9) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (6->6)(10->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(10->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(10->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(10->9) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (8->8)(10->9) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (3->3)(10->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(10->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(10->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(10->8) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (6->6)(10->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (5->5)(10->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(10->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(10->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(10->8) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (3->3)(7->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(7->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(7->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(7->3) => (0->1),support = 4,confidence = NaN
+ Human_Flight Public_Services (6->6)(7->3) => (0->1),support = 6,confidence = 0.0
+ Human_Flight Public_Services (5->5)(7->3) => (0->1),support = 3,confidence = 18.75
+ Human_Flight Public_Services (4->4)(7->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(7->3) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (8->8)(7->3) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (3->3)(7->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(7->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(7->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(7->2) => (0->1),support = 4,confidence = NaN
+ Human_Flight Public_Services (6->6)(7->2) => (0->1),support = 6,confidence = NaN
+ Human_Flight Public_Services (5->5)(7->2) => (0->1),support = 3,confidence = 75.0
+ Human_Flight Public_Services (4->4)(7->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(7->2) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (8->8)(7->2) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (3->3)(7->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(7->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(7->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(7->1) => (0->1),support = 4,confidence = NaN
+ Human_Flight Public_Services (6->6)(7->1) => (0->1),support = 6,confidence = NaN
+ Human_Flight Public_Services (5->5)(7->1) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (4->4)(7->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(7->1) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (8->8)(7->1) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (3->3)(7->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(7->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(7->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(7->10) => (0->1),support = 4,confidence = 66.66666666666666
+ Human_Flight Public_Services (6->6)(7->10) => (0->1),support = 6,confidence = NaN
+ Human_Flight Public_Services (5->5)(7->10) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (4->4)(7->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(7->10) => (0->1),support = 1,confidence = 100.0
+ Human_Flight Public_Services (8->8)(7->10) => (0->1),support = 1,confidence = 100.0
+ Human_Flight Public_Services (3->3)(7->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(7->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(7->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(7->6) => (0->1),support = 4,confidence = 13.333333333333332
+ Human_Flight Public_Services (6->6)(7->6) => (0->1),support = 6,confidence = 42.857142857142854
+ Human_Flight Public_Services (5->5)(7->6) => (0->1),support = 3,confidence = 53.57142857142857
+ Human_Flight Public_Services (4->4)(7->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(7->6) => (0->1),support = 1,confidence = 0.0
+ Human_Flight Public_Services (8->8)(7->6) => (0->1),support = 1,confidence = 50.0
+ Human_Flight Public_Services (3->3)(7->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(7->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(7->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(7->5) => (0->1),support = 4,confidence = 26.666666666666664
+ Human_Flight Public_Services (6->6)(7->5) => (0->1),support = 6,confidence = 0.0
+ Human_Flight Public_Services (5->5)(7->5) => (0->1),support = 3,confidence = 32.14285714285714
+ Human_Flight Public_Services (4->4)(7->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(7->5) => (0->1),support = 1,confidence = 100.0
+ Human_Flight Public_Services (8->8)(7->5) => (0->1),support = 1,confidence = 50.0
+ Human_Flight Public_Services (3->3)(7->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(7->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(7->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(7->4) => (0->1),support = 4,confidence = NaN
+ Human_Flight Public_Services (6->6)(7->4) => (0->1),support = 6,confidence = 57.14285714285714
+ Human_Flight Public_Services (5->5)(7->4) => (0->1),support = 3,confidence = 25.0
+ Human_Flight Public_Services (4->4)(7->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(7->4) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (8->8)(7->4) => (0->1),support = 1,confidence = 100.0
+ Human_Flight Public_Services (3->3)(7->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(7->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(7->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(7->9) => (0->1),support = 4,confidence = 30.303030303030297
+ Human_Flight Public_Services (6->6)(7->9) => (0->1),support = 6,confidence = 28.57142857142857
+ Human_Flight Public_Services (5->5)(7->9) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (4->4)(7->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(7->9) => (0->1),support = 1,confidence = 50.0
+ Human_Flight Public_Services (8->8)(7->9) => (0->1),support = 1,confidence = 60.0
+ Human_Flight Public_Services (3->3)(7->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(7->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(7->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(7->8) => (0->1),support = 4,confidence = 31.111111111111107
+ Human_Flight Public_Services (6->6)(7->8) => (0->1),support = 6,confidence = 0.0
+ Human_Flight Public_Services (5->5)(7->8) => (0->1),support = 3,confidence = 75.0
+ Human_Flight Public_Services (4->4)(7->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(7->8) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (8->8)(7->8) => (0->1),support = 1,confidence = 50.0
+ Human_Flight Public_Services (3->3)(6->3) => (0->1),support = 1,confidence = 25.0
+ Human_Flight Public_Services (2->2)(6->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(6->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(6->3) => (0->1),support = 4,confidence = NaN
+ Human_Flight Public_Services (6->6)(6->3) => (0->1),support = 3,confidence = 0.0
+ Human_Flight Public_Services (5->5)(6->3) => (0->1),support = 2,confidence = 7.142857142857142
+ Human_Flight Public_Services (4->4)(6->3) => (0->1),support = 1,confidence = 25.0
+ Human_Flight Public_Services (9->9)(6->3) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (8->8)(6->3) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (3->3)(6->2) => (0->1),support = 1,confidence = 20.0
+ Human_Flight Public_Services (2->2)(6->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(6->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(6->2) => (0->1),support = 4,confidence = NaN
+ Human_Flight Public_Services (6->6)(6->2) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (5->5)(6->2) => (0->1),support = 2,confidence = 28.57142857142857
+ Human_Flight Public_Services (4->4)(6->2) => (0->1),support = 1,confidence = 50.0
+ Human_Flight Public_Services (9->9)(6->2) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (8->8)(6->2) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (3->3)(6->1) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (2->2)(6->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(6->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(6->1) => (0->1),support = 4,confidence = NaN
+ Human_Flight Public_Services (6->6)(6->1) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (5->5)(6->1) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (4->4)(6->1) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (9->9)(6->1) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (8->8)(6->1) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (3->3)(6->10) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (2->2)(6->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(6->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(6->10) => (0->1),support = 4,confidence = 80.0
+ Human_Flight Public_Services (6->6)(6->10) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (5->5)(6->10) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (4->4)(6->10) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (9->9)(6->10) => (0->1),support = 2,confidence = 100.0
+ Human_Flight Public_Services (8->8)(6->10) => (0->1),support = 1,confidence = 50.0
+ Human_Flight Public_Services (3->3)(6->7) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (2->2)(6->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(6->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(6->7) => (0->1),support = 4,confidence = 26.666666666666664
+ Human_Flight Public_Services (6->6)(6->7) => (0->1),support = 3,confidence = 7.142857142857142
+ Human_Flight Public_Services (5->5)(6->7) => (0->1),support = 2,confidence = 7.142857142857142
+ Human_Flight Public_Services (4->4)(6->7) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (9->9)(6->7) => (0->1),support = 2,confidence = 0.0
+ Human_Flight Public_Services (8->8)(6->7) => (0->1),support = 1,confidence = 0.0
+ Human_Flight Public_Services (3->3)(6->5) => (0->1),support = 1,confidence = 0.0
+ Human_Flight Public_Services (2->2)(6->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(6->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(6->5) => (0->1),support = 4,confidence = 32.0
+ Human_Flight Public_Services (6->6)(6->5) => (0->1),support = 3,confidence = 0.0
+ Human_Flight Public_Services (5->5)(6->5) => (0->1),support = 2,confidence = 12.244897959183671
+ Human_Flight Public_Services (4->4)(6->5) => (0->1),support = 1,confidence = 42.857142857142854
+ Human_Flight Public_Services (9->9)(6->5) => (0->1),support = 2,confidence = 100.0
+ Human_Flight Public_Services (8->8)(6->5) => (0->1),support = 1,confidence = 25.0
+ Human_Flight Public_Services (3->3)(6->4) => (0->1),support = 1,confidence = 12.5
+ Human_Flight Public_Services (2->2)(6->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(6->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(6->4) => (0->1),support = 4,confidence = NaN
+ Human_Flight Public_Services (6->6)(6->4) => (0->1),support = 3,confidence = 33.33333333333333
+ Human_Flight Public_Services (5->5)(6->4) => (0->1),support = 2,confidence = 9.523809523809522
+ Human_Flight Public_Services (4->4)(6->4) => (0->1),support = 1,confidence = 20.0
+ Human_Flight Public_Services (9->9)(6->4) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (8->8)(6->4) => (0->1),support = 1,confidence = 50.0
+ Human_Flight Public_Services (3->3)(6->9) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (2->2)(6->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(6->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(6->9) => (0->1),support = 4,confidence = 36.36363636363636
+ Human_Flight Public_Services (6->6)(6->9) => (0->1),support = 3,confidence = 16.666666666666664
+ Human_Flight Public_Services (5->5)(6->9) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (4->4)(6->9) => (0->1),support = 1,confidence = 0.0
+ Human_Flight Public_Services (9->9)(6->9) => (0->1),support = 2,confidence = 50.0
+ Human_Flight Public_Services (8->8)(6->9) => (0->1),support = 1,confidence = 30.0
+ Human_Flight Public_Services (3->3)(6->8) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (2->2)(6->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(6->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(6->8) => (0->1),support = 4,confidence = 37.333333333333336
+ Human_Flight Public_Services (6->6)(6->8) => (0->1),support = 3,confidence = 0.0
+ Human_Flight Public_Services (5->5)(6->8) => (0->1),support = 2,confidence = 28.57142857142857
+ Human_Flight Public_Services (4->4)(6->8) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (9->9)(6->8) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (8->8)(6->8) => (0->1),support = 1,confidence = 25.0
+ Human_Flight Public_Services (3->3)(5->3) => (0->1),support = 1,confidence = 50.0
+ Human_Flight Public_Services (2->2)(5->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(5->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(5->3) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (6->6)(5->3) => (0->1),support = 2,confidence = 0.0
+ Human_Flight Public_Services (5->5)(5->3) => (0->1),support = 4,confidence = 14.285714285714285
+ Human_Flight Public_Services (4->4)(5->3) => (0->1),support = 4,confidence = 14.285714285714285
+ Human_Flight Public_Services (9->9)(5->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(5->3) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (3->3)(5->2) => (0->1),support = 1,confidence = 40.0
+ Human_Flight Public_Services (2->2)(5->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(5->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(5->2) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (6->6)(5->2) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (5->5)(5->2) => (0->1),support = 4,confidence = 57.14285714285714
+ Human_Flight Public_Services (4->4)(5->2) => (0->1),support = 4,confidence = 28.57142857142857
+ Human_Flight Public_Services (9->9)(5->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(5->2) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (3->3)(5->1) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (2->2)(5->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(5->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(5->1) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (6->6)(5->1) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (5->5)(5->1) => (0->1),support = 4,confidence = NaN
+ Human_Flight Public_Services (4->4)(5->1) => (0->1),support = 4,confidence = NaN
+ Human_Flight Public_Services (9->9)(5->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(5->1) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (3->3)(5->10) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (2->2)(5->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(5->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(5->10) => (0->1),support = 3,confidence = 60.0
+ Human_Flight Public_Services (6->6)(5->10) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (5->5)(5->10) => (0->1),support = 4,confidence = NaN
+ Human_Flight Public_Services (4->4)(5->10) => (0->1),support = 4,confidence = NaN
+ Human_Flight Public_Services (9->9)(5->10) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (8->8)(5->10) => (0->1),support = 1,confidence = 50.0
+ Human_Flight Public_Services (3->3)(5->7) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (2->2)(5->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(5->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(5->7) => (0->1),support = 3,confidence = 20.0
+ Human_Flight Public_Services (6->6)(5->7) => (0->1),support = 2,confidence = 14.285714285714285
+ Human_Flight Public_Services (5->5)(5->7) => (0->1),support = 4,confidence = 14.285714285714285
+ Human_Flight Public_Services (4->4)(5->7) => (0->1),support = 4,confidence = NaN
+ Human_Flight Public_Services (9->9)(5->7) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (8->8)(5->7) => (0->1),support = 1,confidence = 0.0
+ Human_Flight Public_Services (3->3)(5->6) => (0->1),support = 1,confidence = 50.0
+ Human_Flight Public_Services (2->2)(5->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(5->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(5->6) => (0->1),support = 3,confidence = 12.0
+ Human_Flight Public_Services (6->6)(5->6) => (0->1),support = 2,confidence = 50.0
+ Human_Flight Public_Services (5->5)(5->6) => (0->1),support = 4,confidence = 40.816326530612244
+ Human_Flight Public_Services (4->4)(5->6) => (0->1),support = 4,confidence = 0.0
+ Human_Flight Public_Services (9->9)(5->6) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (8->8)(5->6) => (0->1),support = 1,confidence = 25.0
+ Human_Flight Public_Services (3->3)(5->4) => (0->1),support = 1,confidence = 25.0
+ Human_Flight Public_Services (2->2)(5->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(5->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(5->4) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (6->6)(5->4) => (0->1),support = 2,confidence = 66.66666666666666
+ Human_Flight Public_Services (5->5)(5->4) => (0->1),support = 4,confidence = 19.047619047619044
+ Human_Flight Public_Services (4->4)(5->4) => (0->1),support = 4,confidence = 11.428571428571429
+ Human_Flight Public_Services (9->9)(5->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(5->4) => (0->1),support = 1,confidence = 50.0
+ Human_Flight Public_Services (3->3)(5->9) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (2->2)(5->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(5->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(5->9) => (0->1),support = 3,confidence = 27.272727272727273
+ Human_Flight Public_Services (6->6)(5->9) => (0->1),support = 2,confidence = 33.33333333333333
+ Human_Flight Public_Services (5->5)(5->9) => (0->1),support = 4,confidence = NaN
+ Human_Flight Public_Services (4->4)(5->9) => (0->1),support = 4,confidence = 0.0
+ Human_Flight Public_Services (9->9)(5->9) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (8->8)(5->9) => (0->1),support = 1,confidence = 30.0
+ Human_Flight Public_Services (3->3)(5->8) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (2->2)(5->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(5->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(5->8) => (0->1),support = 3,confidence = 28.0
+ Human_Flight Public_Services (6->6)(5->8) => (0->1),support = 2,confidence = 0.0
+ Human_Flight Public_Services (5->5)(5->8) => (0->1),support = 4,confidence = 57.14285714285714
+ Human_Flight Public_Services (4->4)(5->8) => (0->1),support = 4,confidence = NaN
+ Human_Flight Public_Services (9->9)(5->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(5->8) => (0->1),support = 1,confidence = 25.0
+ Human_Flight Public_Services (3->3)(4->3) => (0->1),support = 3,confidence = 37.5
+ Human_Flight Public_Services (2->2)(4->3) => (0->1),support = 1,confidence = 50.0
+ Human_Flight Public_Services (1->1)(4->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(4->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(4->3) => (0->1),support = 1,confidence = 0.0
+ Human_Flight Public_Services (5->5)(4->3) => (0->1),support = 2,confidence = 16.666666666666664
+ Human_Flight Public_Services (4->4)(4->3) => (0->1),support = 4,confidence = 20.0
+ Human_Flight Public_Services (9->9)(4->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(4->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(4->2) => (0->1),support = 3,confidence = 30.0
+ Human_Flight Public_Services (2->2)(4->2) => (0->1),support = 1,confidence = 42.857142857142854
+ Human_Flight Public_Services (1->1)(4->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(4->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(4->2) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (5->5)(4->2) => (0->1),support = 2,confidence = 66.66666666666666
+ Human_Flight Public_Services (4->4)(4->2) => (0->1),support = 4,confidence = 40.0
+ Human_Flight Public_Services (9->9)(4->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(4->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(4->1) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (2->2)(4->1) => (0->1),support = 1,confidence = 0.0
+ Human_Flight Public_Services (1->1)(4->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(4->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(4->1) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (5->5)(4->1) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (4->4)(4->1) => (0->1),support = 4,confidence = NaN
+ Human_Flight Public_Services (9->9)(4->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(4->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (3->3)(4->10) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (2->2)(4->10) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (1->1)(4->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(4->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(4->10) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (5->5)(4->10) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (4->4)(4->10) => (0->1),support = 4,confidence = NaN
+ Human_Flight Public_Services (9->9)(4->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(4->10) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (3->3)(4->7) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (2->2)(4->7) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (1->1)(4->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(4->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(4->7) => (0->1),support = 1,confidence = 4.761904761904761
+ Human_Flight Public_Services (5->5)(4->7) => (0->1),support = 2,confidence = 16.666666666666664
+ Human_Flight Public_Services (4->4)(4->7) => (0->1),support = 4,confidence = NaN
+ Human_Flight Public_Services (9->9)(4->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(4->7) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (3->3)(4->6) => (0->1),support = 3,confidence = 37.5
+ Human_Flight Public_Services (2->2)(4->6) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (1->1)(4->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(4->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(4->6) => (0->1),support = 1,confidence = 16.666666666666664
+ Human_Flight Public_Services (5->5)(4->6) => (0->1),support = 2,confidence = 47.61904761904761
+ Human_Flight Public_Services (4->4)(4->6) => (0->1),support = 4,confidence = 0.0
+ Human_Flight Public_Services (9->9)(4->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(4->6) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (3->3)(4->5) => (0->1),support = 3,confidence = 0.0
+ Human_Flight Public_Services (2->2)(4->5) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (1->1)(4->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(4->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(4->5) => (0->1),support = 1,confidence = 0.0
+ Human_Flight Public_Services (5->5)(4->5) => (0->1),support = 2,confidence = 28.571428571428566
+ Human_Flight Public_Services (4->4)(4->5) => (0->1),support = 4,confidence = 34.285714285714285
+ Human_Flight Public_Services (9->9)(4->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(4->5) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (3->3)(4->9) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (2->2)(4->9) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (1->1)(4->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(4->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(4->9) => (0->1),support = 1,confidence = 11.111111111111109
+ Human_Flight Public_Services (5->5)(4->9) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (4->4)(4->9) => (0->1),support = 4,confidence = 0.0
+ Human_Flight Public_Services (9->9)(4->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(4->9) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (3->3)(4->8) => (0->1),support = 3,confidence = NaN
+ Human_Flight Public_Services (2->2)(4->8) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (1->1)(4->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(4->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (6->6)(4->8) => (0->1),support = 1,confidence = 0.0
+ Human_Flight Public_Services (5->5)(4->8) => (0->1),support = 2,confidence = 66.66666666666666
+ Human_Flight Public_Services (4->4)(4->8) => (0->1),support = 4,confidence = NaN
+ Human_Flight Public_Services (9->9)(4->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(4->8) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (3->3)(9->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(9->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(9->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(9->3) => (0->1),support = 6,confidence = NaN
+ Human_Flight Public_Services (6->6)(9->3) => (0->1),support = 4,confidence = 0.0
+ Human_Flight Public_Services (5->5)(9->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(9->3) => (0->1),support = 1,confidence = 25.0
+ Human_Flight Public_Services (9->9)(9->3) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (8->8)(9->3) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (3->3)(9->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(9->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(9->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(9->2) => (0->1),support = 6,confidence = NaN
+ Human_Flight Public_Services (6->6)(9->2) => (0->1),support = 4,confidence = NaN
+ Human_Flight Public_Services (5->5)(9->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(9->2) => (0->1),support = 1,confidence = 50.0
+ Human_Flight Public_Services (9->9)(9->2) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (8->8)(9->2) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (3->3)(9->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(9->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(9->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(9->1) => (0->1),support = 6,confidence = NaN
+ Human_Flight Public_Services (6->6)(9->1) => (0->1),support = 4,confidence = NaN
+ Human_Flight Public_Services (5->5)(9->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(9->1) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (9->9)(9->1) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (8->8)(9->1) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (3->3)(9->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(9->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(9->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(9->10) => (0->1),support = 6,confidence = 54.54545454545454
+ Human_Flight Public_Services (6->6)(9->10) => (0->1),support = 4,confidence = NaN
+ Human_Flight Public_Services (5->5)(9->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(9->10) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (9->9)(9->10) => (0->1),support = 1,confidence = 50.0
+ Human_Flight Public_Services (8->8)(9->10) => (0->1),support = 2,confidence = 40.0
+ Human_Flight Public_Services (3->3)(9->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(9->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(9->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(9->7) => (0->1),support = 6,confidence = 18.18181818181818
+ Human_Flight Public_Services (6->6)(9->7) => (0->1),support = 4,confidence = 9.523809523809522
+ Human_Flight Public_Services (5->5)(9->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(9->7) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (9->9)(9->7) => (0->1),support = 1,confidence = 0.0
+ Human_Flight Public_Services (8->8)(9->7) => (0->1),support = 2,confidence = 0.0
+ Human_Flight Public_Services (3->3)(9->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(9->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(9->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(9->6) => (0->1),support = 6,confidence = 10.909090909090908
+ Human_Flight Public_Services (6->6)(9->6) => (0->1),support = 4,confidence = 33.33333333333333
+ Human_Flight Public_Services (5->5)(9->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(9->6) => (0->1),support = 1,confidence = 0.0
+ Human_Flight Public_Services (9->9)(9->6) => (0->1),support = 1,confidence = 0.0
+ Human_Flight Public_Services (8->8)(9->6) => (0->1),support = 2,confidence = 20.0
+ Human_Flight Public_Services (3->3)(9->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(9->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(9->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(9->5) => (0->1),support = 6,confidence = 21.818181818181817
+ Human_Flight Public_Services (6->6)(9->5) => (0->1),support = 4,confidence = 0.0
+ Human_Flight Public_Services (5->5)(9->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(9->5) => (0->1),support = 1,confidence = 42.857142857142854
+ Human_Flight Public_Services (9->9)(9->5) => (0->1),support = 1,confidence = 50.0
+ Human_Flight Public_Services (8->8)(9->5) => (0->1),support = 2,confidence = 20.0
+ Human_Flight Public_Services (3->3)(9->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(9->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(9->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(9->4) => (0->1),support = 6,confidence = NaN
+ Human_Flight Public_Services (6->6)(9->4) => (0->1),support = 4,confidence = 44.444444444444436
+ Human_Flight Public_Services (5->5)(9->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(9->4) => (0->1),support = 1,confidence = 20.0
+ Human_Flight Public_Services (9->9)(9->4) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (8->8)(9->4) => (0->1),support = 2,confidence = 40.0
+ Human_Flight Public_Services (3->3)(9->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(9->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(9->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(9->8) => (0->1),support = 6,confidence = 25.454545454545453
+ Human_Flight Public_Services (6->6)(9->8) => (0->1),support = 4,confidence = 0.0
+ Human_Flight Public_Services (5->5)(9->8) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(9->8) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (9->9)(9->8) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (8->8)(9->8) => (0->1),support = 2,confidence = 20.0
+ Human_Flight Public_Services (3->3)(8->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(8->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(8->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(8->3) => (0->1),support = 8,confidence = NaN
+ Human_Flight Public_Services (6->6)(8->3) => (0->1),support = 1,confidence = 0.0
+ Human_Flight Public_Services (5->5)(8->3) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (4->4)(8->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(8->3) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(8->3) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (3->3)(8->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(8->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(8->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(8->2) => (0->1),support = 8,confidence = NaN
+ Human_Flight Public_Services (6->6)(8->2) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (5->5)(8->2) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (4->4)(8->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(8->2) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(8->2) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (3->3)(8->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(8->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(8->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(8->1) => (0->1),support = 8,confidence = NaN
+ Human_Flight Public_Services (6->6)(8->1) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (5->5)(8->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(8->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(8->1) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(8->1) => (0->1),support = 2,confidence = NaN
+ Human_Flight Public_Services (3->3)(8->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(8->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(8->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(8->10) => (0->1),support = 8,confidence = 53.333333333333336
+ Human_Flight Public_Services (6->6)(8->10) => (0->1),support = 1,confidence = NaN
+ Human_Flight Public_Services (5->5)(8->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(8->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(8->10) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(8->10) => (0->1),support = 2,confidence = 50.0
+ Human_Flight Public_Services (3->3)(8->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(8->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(8->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(8->7) => (0->1),support = 8,confidence = 17.77777777777778
+ Human_Flight Public_Services (6->6)(8->7) => (0->1),support = 1,confidence = 14.285714285714285
+ Human_Flight Public_Services (5->5)(8->7) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (4->4)(8->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(8->7) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(8->7) => (0->1),support = 2,confidence = 0.0
+ Human_Flight Public_Services (3->3)(8->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(8->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(8->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(8->6) => (0->1),support = 8,confidence = 10.666666666666668
+ Human_Flight Public_Services (6->6)(8->6) => (0->1),support = 1,confidence = 50.0
+ Human_Flight Public_Services (5->5)(8->6) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (4->4)(8->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(8->6) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(8->6) => (0->1),support = 2,confidence = 25.0
+ Human_Flight Public_Services (3->3)(8->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(8->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(8->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(8->5) => (0->1),support = 8,confidence = 21.333333333333336
+ Human_Flight Public_Services (6->6)(8->5) => (0->1),support = 1,confidence = 0.0
+ Human_Flight Public_Services (5->5)(8->5) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (4->4)(8->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(8->5) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(8->5) => (0->1),support = 2,confidence = 25.0
+ Human_Flight Public_Services (3->3)(8->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(8->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(8->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(8->4) => (0->1),support = 8,confidence = NaN
+ Human_Flight Public_Services (6->6)(8->4) => (0->1),support = 1,confidence = 66.66666666666666
+ Human_Flight Public_Services (5->5)(8->4) => (0->1),support = 0,confidence = 0.0
+ Human_Flight Public_Services (4->4)(8->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(8->4) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(8->4) => (0->1),support = 2,confidence = 50.0
+ Human_Flight Public_Services (3->3)(8->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (2->2)(8->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (1->1)(8->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (7->7)(8->9) => (0->1),support = 8,confidence = 24.242424242424242
+ Human_Flight Public_Services (6->6)(8->9) => (0->1),support = 1,confidence = 33.33333333333333
+ Human_Flight Public_Services (5->5)(8->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (4->4)(8->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (9->9)(8->9) => (0->1),support = 0,confidence = NaN
+ Human_Flight Public_Services (8->8)(8->9) => (0->1),support = 2,confidence = 30.0
